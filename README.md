@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hi, this is `UPENDRA TRIPATHI`[21] from Haldwani, Nainital 
-B.tech CSE undergrad from GEU[25].
+hi, this is `UPENDRA TRIPATHI`[21] from Haldwani, Nainital B.tech CSE undergrad from GEU[25].<br><br>
 things to do in (Jan 2024 - Jan 2025) :
 - get better at solving algorithm problems [on going]
 - learn MERN stack [on going]
