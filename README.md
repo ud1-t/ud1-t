@@ -24,11 +24,15 @@ things to do in (Jan 2024 - Jan 2025) :
 - build byteBout
 - foucs on physical fitness [hard]
 - touch some grass [harder]
-
 - join a cool team and make cool stuff
-  
+  <br><br><br>
 
-<p align="left">
-<a href="https://twitter.com/ud1tsocial" target="blank"></a>`Twitter[X]`
 
+
+Connect:
+<p>
+ ‎  ‎  ‎  ‎ - twitter[X]_ ‎  ‎  ‎  ‎ ‎   ‎ <a href="https://twitter.com/ud1tsocial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ud1tsocial" height="20" width="20" /></a><br>
+ ‎  ‎  ‎  ‎ - leetCode_ ‎  ‎  ‎  ‎ ‎   ‎  ‎ <a href="https://leetcode.com/uditpudit" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png" alt="uditpudit" height="20" width="20" /></a><br>
+ ‎  ‎  ‎  ‎ - codeforces_ ‎  ‎  ‎ <a href="https://codeforces.com/profile/uditpudit" target="blank"><img align="center" src="https://cdn.iconscout.com/icon/free/png-256/free-code-forces-3521352-2944796.png?f=webp" alt="uditpudit" height="20" width="20" /></a><br>
+ ‎  ‎  ‎  ‎ - atCoder_ ‎  ‎  ‎  ‎  ‎ ‎  ‎   ‎ <a href="https://atcoder.jp/users/uditpudit" target="blank"><img align="center" src="https://user-images.githubusercontent.com/63050133/151978916-3b2ea906-152e-4e09-b2ed-250c08498b6d.png" alt="uditpudit" height="20" width="20" /></a>
 </p>
