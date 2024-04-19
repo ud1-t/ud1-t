@@ -27,3 +27,8 @@ things to do in (Jan 2024 - Jan 2025) :
 
 - join a cool team and make cool stuff
   
+
+<p align="left">
+<a href="https://twitter.com/ud1tsocial" target="blank">`Twitter[X]</a>
+
+</p>
