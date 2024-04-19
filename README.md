@@ -20,10 +20,10 @@ B.tech CSE undergrad from GEU[25].
 things to do in (Jan 2024 - Jan 2025) :
 - get better at solving algorithm problems [on going]
 - learn MERN stack [on going]
-- build some good project (on going)
+- build some good project [on going]
 - build byteBout
 - foucs on physical fitness [hard]
 - touch some grass [harder]
 
-- looking to join a cool team and make cool stuff
+- join a cool team and make cool stuff
   
