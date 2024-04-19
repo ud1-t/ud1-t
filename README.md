@@ -29,6 +29,6 @@ things to do in (Jan 2024 - Jan 2025) :
   
 
 <p align="left">
-<a href="https://twitter.com/ud1tsocial" target="blank">`Twitter[X]</a>
+<a href="https://twitter.com/ud1tsocial" target="blank">`Twitter[X]`</a>
 
 </p>
