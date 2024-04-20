@@ -1,5 +1,3 @@
-
-
 <!--
 **ud1-t/ud1-t** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,14 +15,15 @@ Here are some ideas to get you started:
 
 hi, this is `UPENDRA TRIPATHI`[21] from Haldwani, Nainital B.tech CSE undergrad from GEU[25].<br><br>
 things to do in (Jan 2024 - Jan 2025) :
-- get better at solving algorithm problems [on going]
-- learn MERN stack [on going]
-- build some good project [on going]
-- build byteBout
-- foucs on physical fitness [hard]
-- touch some grass [harder]
-- join a cool team and make cool stuff
-  <br><br><br>
+- get better at solving algorithm problems [ because apparently memorizing pi to the 10th decimal wasn't enough ]
+- learn MERN stack [ because who needs sleep when you can code like a caffeinated squirrel? ]
+- build byteBout [ the app everyone will totally use, maybe ]
+- foucs on physical fitness [ wish me luck, I haven't seen the sun since dial-up was a thing ]
+- touch some grass [ easier said than done when your phone is basically an extension of your arm ]
+- join a cool team and make cool stuff [ or at least a slightly less buggy to-do list app ]
+  <br>
+  Let's see how many of these I can actually achieve without a complete existential meltdown. Stay tuned for the inevitable updates filled with procrastination and questionable life choices!
+  <br><br>
 
 
 
