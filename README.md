@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 hi, this is UPENDRA TRIPATHI[21] from Haldwani, Nainital B.tech CSE undergrad from GEU[25].<br><br>
 things to do in (Jan 2024 - Jan 2025) :
 * get better at solving algorithm problems [on going]
-* learn MERN stack [on going]
-* build some good project [on going]
-* build byteBout
+* build some good projects [on going]
+* build byteBout [working on it]
 * foucs on physical fitness [hard]
 * touch some grass [harder]
-* join a cool team and make cool stuff
+* join a cool team and make cool stuff [open to work]
   <br><br><br>
 
 
